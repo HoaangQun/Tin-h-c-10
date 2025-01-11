@@ -1,2 +1,2 @@
-# Tin-h-c-10
+# Tin học 10
 &lt;Python>
